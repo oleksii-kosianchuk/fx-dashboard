@@ -7,4 +7,4 @@ Please folow [this link](https://app.powerbi.com/view?r=eyJrIjoiMDU3Y2YwNzItOTA0
 
 When you first open the dashboard, it is recommended that you click on the Hints button <img src="https://github.com/oleksii-kosianchuk/fx-dashboard/blob/main/Hints.png" width="19" height="19"> to see the possible interaction options.
 # Overview
-The original Power BI dashboard is used by head of department, managers and heads of business centers to explore the activity of their clients with foreign exchange and its results. In a bank, the definition of client may refer to the legal entity or business group (multiple legal entities that are connected by the same legal structure).
+The original Power BI dashboard is used by head of department, managers and heads of business centers to explore the activity of their clients with foreign exchange and its results. In a bank, the definition of client  refers to the legal entity or business group (multiple legal entities that are linked together through shared ownership, activity and management).
